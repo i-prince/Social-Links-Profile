@@ -20,13 +20,11 @@ function App() {
       </p>
 
       <div>
-        <ul>
-          <li>Github</li>
-          <li>Frontend Mentor</li>
-          <li>Linkedin</li>
-          <li>Twitter</li>
-          <li>Instagram</li>
-        </ul>
+        <button>Github</button>
+        <button>Frontend Mentor</button>
+        <button>Linkedin</button>
+        <button>Twitter</button>
+        <button>Instagram</button>
       </div>
 
     </>
