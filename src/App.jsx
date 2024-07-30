@@ -2,7 +2,7 @@ import './App.css'
 
 function App() {
   return (
-    <>
+    <div className='body'>
       <div className='profile'>
         <img src='public/avatar-jessica.jpeg' alt='Jessica Randal' className='profile-image'></img>
       </div>
@@ -27,7 +27,7 @@ function App() {
         <button className='button'>Instagram</button>
       </div>
 
-    </>
+    </div>
   )
 }
 
