@@ -4,7 +4,7 @@ function App() {
   return (
     <div className='body'>
       <div className='profile'>
-        <img src='public/avatar-jessica.jpeg' alt='Jessica Randal' className='profile-image'></img>
+        <img src='/avatar-jessica.jpeg' alt='Jessica Randal' className='profile-image'></img>
       </div>
     
       <h2 className='profile-name'>
