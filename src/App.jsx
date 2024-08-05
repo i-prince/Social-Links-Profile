@@ -4,7 +4,7 @@ function App() {
   return (
     <div className='body'>
       <div className='profile'>
-        <img src='/avatar-jessica.jpeg' alt='Jessica Randal' className='profile-image'></img>
+        <img src='https://rohan843-social-links-profile.netlify.app/assets/images/avatar-jessica.jpeg' alt='Jessica Randal' className='profile-image'></img>
       </div>
     
       <h2 className='profile-name'>
