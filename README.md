@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./public/App%20Screenshot.png)
+![](./public/Screenshot%20from%202024-08-05%2018-50-52.png)
 
 
 ### Links
