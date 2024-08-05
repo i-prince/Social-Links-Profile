@@ -18,7 +18,8 @@ html, body, #root {
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 0 auto;
-  height: fit-content;
+  min-height: fit-content;
+  min-width: fit-content;
 }
 
 .profile {
