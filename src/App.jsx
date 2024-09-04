@@ -22,9 +22,9 @@ function App() {
       <div className='profile-buttons'>
         <a href='https://github.com/i-prince'><button className='button'>Github</button></a>
         <a href='https://www.linkedin.com/in/mola-brother-tonny/'><button className='button'>Linkedin</button></a>
+        <a href='https://www.upwork.com/freelancers/~01cb1c950c4ef83f07'><button className='button'>Upwork</button></a>
         <a href='https://molatonny.hashnode.dev/'><button className='button'>Hashnode</button></a>
         <a href='https://dev.to/i-prince'><button className='button'>Dev.to</button></a>
-        <a href='https://x.com/mola_tonny'><button className='button'>Twitter</button></a>
       </div>
 
     </div>
